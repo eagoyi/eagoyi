@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 -->
 <em><strong>NOTE: My Github profile does not 100% represent my years of work experience, tools, languages, organizations, repositories or project I have worked on!!!</strong></em>
 
-## I find these dirs useful:
+## Worth Mentioning:
 
 This is *[A Markdown Guide](https://www.markdownguide.org)*
 
@@ -111,6 +111,11 @@ Road Map to Learn any Role/Skill *[RoadMap](https://roadmap.sh/)*
 
 ### Build Anything
 - [Buld Your Own X Repository](https://github.com/codecrafters-io/build-your-own-x)
+
+### Community
+- [Stackoverflow](https://stackoverflow.com)
+- [Google Developer](developers.google.com)
+- [Apple Developer](https://developer.apple.com/)
 
 ### Other Resources
 - [Digital Ocean](https://docs.digitalocean.com/)
