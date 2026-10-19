@@ -1,37 +1,36 @@
 ### Hi there 👋 [I am Elizabeth but you can call me Izzie](https://github.com/eagoyi/profile)
 
-I code, I write, and I mentor.
-I am driven by and passionate about impact, inspired by the continuose improvement and growth of my employing organization
-I currently work as a Software Engineer at [CI&T](https://ciandt.com/us/en-us). At CI&T We implement technology in bringing our clients ideas to life, helping them make their tomorrow!!!.
+I code, I fix, I write, and I mentor.
+I am driven by and passionate about impact, inspired by the continuose improvement and growth of my employer, My last employer was [CI&T](https://ciandt.com/us/en-us) and now I work with [Indie Group](https://indiegrp.com/). At Indie Group We are Transforming ideas into powerful digital solutions. We build software that drives business growth and creates exceptional user experiences...
 
-<div align="center" id="badges">
+### 🎯 Current Focus
+
+| Activity | Progress | Status |
+|:---|:---|---:|
+| 🚀 Building | ████████████████████ | 100% |
+| 📚 Learning | ███████████████░░░░░ | 75% |
+| 🤝 Collaborating | █████████████░░░░░░░ | 65% |
+| 🌎 Open Source | ██████████░░░░░░░░░░ | 50% |
+
+*Continuous building, Continuous learning, Continuous growth! ✨*
+
+<!-- <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/ellzabethagoyi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="https://twitter.com/eagoyis">
+<a href="https://twitter.com/eagoyis">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+  </a> 
   <a href="https://stackoverflow.com/users/12561599/elizabeth">
     <img src="https://img.shields.io/badge/Stackoverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
-</div>
-
+</div> 
 
 <div align="center">
-    <a href="mailto:elizabethagoyi2@gmail.com"><img src="https://img.shields.io/badge/Elizabeth%20Agoyi-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:elizabethagoyi2@gmail.com" alt="Gmail Badge"></a>
+    <a href="mailto:eoagoyi@gmail.com"><img src="https://img.shields.io/badge/Elizabeth%20Agoyi-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:eoagoyi2@gmail.com" alt="Gmail Badge"></a>
     <img src="https://komarev.com/ghpvc/?username=eagoyi&style=flat-square&color=blue" alt=""/>
 </div>
-
-Get a glimpse:
-
-- 💬 Ask me about: Javascrip, Java and devops
-- 📫 How to reach me: Email me 🙋‍♀️
-- 😄 Pronouns: She/Her
-- 🔭 I’m currently working on: A habbit curbing app...
-- 🌱 I’m currently learning: Python, Cynersecurity, Network+, Security+
-- 👯 I’m looking to collaborate on: Impacting open source Repos
-- 🤔 I’m looking for help with 🤔
-- ⚡ Fun fact: Ask me 🤣
+-->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -42,6 +41,8 @@ Get a glimpse:
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -77,9 +78,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-><em><strong>NOTE: My Github profile does not 100% represent my years of work experience, tools, languages, organizations, repositories or project I have worked on!!!</strong></em>
+<em><strong>NOTE: My Github profile does not 100% represent my years of work experience, tools, languages, organizations, repositories or project I have worked on!!!</strong></em>
 
-## You might find these useful:
+## I find these dirs useful:
 
 This is *[A Markdown Guide](https://www.markdownguide.org)*
 
@@ -126,3 +127,24 @@ Road Map to Learn any Role/Skill *[RoadMap](https://roadmap.sh/)*
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
 - [Code central](https://www.codecentral.com/)
+
+<div align="center">
+  <h3>Have an interesting idea? Let's build something amazing<h3>
+<div>
+<a href="https://linkedin.com/in/elizabethagoyi">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:eoagoyi@email.com">
+<img src="https://img.shields.io/badge/Email-Drop_Me_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/eagoyi">
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+</div>
+<br/>
+<div>
+  "Great things happen when we commit 🤔"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
