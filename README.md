@@ -8,9 +8,10 @@ I am driven by and passionate about impact, inspired by the continuose improveme
 | Activity | Progress | Status |
 |:---|:---|---:|
 | 🚀 Building | ████████████████████ | 100% |
-| 📚 Learning | ███████████████░░░░░ | 75% |
-| 🤝 Collaborating | █████████████░░░░░░░ | 65% |
-| 🌎 Open Source | ██████████░░░░░░░░░░ | 50% |
+| 🥇 Leading | █████████████░░░░░░░ | 65% |
+| 🤝 Collaborating | ████████████░░░░░░░░ | 60% |
+| 📚 KT/Learning | ███████████████░░░░░ | 75% |
+| 🌎 Open Source | █████░░░░░░░░░░░░░░░ | 25% |
 
 *Continuous building, Continuous learning, Continuous growth! ✨*
 
