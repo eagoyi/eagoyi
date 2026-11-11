@@ -1,8 +1,8 @@
 <!--### Hi there 👋 [I am Elizabeth but you can call me Izzie](https://github.com/eagoyi/profile)-->
-<p align="center"><img src="https://readmes.pages.dev/text/say/Hey%20There%2C%20Welcome/wave?gradient" alt="Hey There, Welcome" width="300"></p>   
+<p align="center"><img src="https://readmes.pages.dev/text/say/Hey%20There%2C%20Welcome/wave?gradient" alt="Hey There, Welcome 👋" width="350"></p>   
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=I%27m+Elizabeth+but+you+can+call+me+Izzie%F0%9F%91%8B;Software+Developer+and+Researcher;Building+Impactful+Solutions;Interests:+AI+Security+and+Adversarial-ML;Open+to+collaborations)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=I%27m+Elizabeth+but+you+can+call+me+Izzie;Software+Developer+and+Researcher;Building+Impactful+Solutions;Interests:+AI+Security+and+Adversarial-ML;Open+to+collaborations)](https://git.io/typing-svg)  
 
 I code, I fix, I write, and I mentor.
 I am driven by and passionate about impact, inspired by the continuose improvement and growth of my employer, My last employer was [CI&T](https://ciandt.com/us/en-us) and now I work with [Indie Group](https://indiegrp.com/). At Indie Group We are Transforming ideas into powerful digital solutions. We build software that drives business growth and creates exceptional user experiences...
