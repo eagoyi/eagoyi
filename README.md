@@ -1,4 +1,8 @@
-### Hi there 👋 [I am Elizabeth but you can call me Izzie](https://github.com/eagoyi/profile)
+<!--### Hi there 👋 [I am Elizabeth but you can call me Izzie](https://github.com/eagoyi/profile)-->
+<p align="center"><img src="https://readmes.pages.dev/text/say/Hey%20There%2C%20Welcome/wave?gradient" alt="Hey There, Welcome" width="300"></p>   
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=I%27m+Elizabeth+but+you+can+call+me+Izzie%F0%9F%91%8B;Software+Developer+and+Researcher;Building+Impactful+Solutions;Interests:+AI+Security+and+Adversarial-ML;Open+to+collaborations)](https://git.io/typing-svg)  
 
 I code, I fix, I write, and I mentor.
 I am driven by and passionate about impact, inspired by the continuose improvement and growth of my employer, My last employer was [CI&T](https://ciandt.com/us/en-us) and now I work with [Indie Group](https://indiegrp.com/). At Indie Group We are Transforming ideas into powerful digital solutions. We build software that drives business growth and creates exceptional user experiences...
@@ -10,7 +14,7 @@ I am driven by and passionate about impact, inspired by the continuose improveme
 | 🚀 Building | ████████████████████ | 100% |
 | 🥇 Leading | █████████████░░░░░░░ | 65% |
 | 🤝 Collaborating | ████████████░░░░░░░░ | 60% |
-| 📚 KT/Learning | ███████████████░░░░░ | 75% |
+| 📚 KT/Research | ███████████████░░░░░ | 75% |
 | 🌎 Open Source | █████░░░░░░░░░░░░░░░ | 25% |
 
 *Continuous building, Continuous learning, Continuous growth! ✨*
@@ -53,14 +57,14 @@ I am driven by and passionate about impact, inspired by the continuose improveme
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>
 </div>
 
-### :fire: My GH Stats
+<!-- ### :fire: My GH Stats -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eagoyi&&theme=tokyonight" alt="Elizabeth Agoyi" /></p> -->
 
 <!-- [![eagoyi GitHub stats](https://github-readme-stats.vercel.app/api?username=eagoyi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](#!) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eagoyi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eagoyi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
@@ -79,7 +83,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<em><strong>NOTE: My Github profile does not 100% represent my years of work experience, tools, languages, organizations, repositories or project I have worked on!!!</strong></em>
+<br/>
+<small><em><i><p>NOTE: Most orgs use other version control platforms, hence My Github profile does not 100% represent my years of work experience, tools, languages, organizations, repositories or projects!!!</p></i></em></small>
 
 ## Worth Mentioning:
 
